@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Choon Sien from Melbourne<br><br>- 🔭 I’m working as a Customer Care Consultant in a water company<br>- 📚 I'm currently learning data analysis, cyber security and coding<br>- ⚡ In my free time I love enjoy a brew of coffee while working on my self-project and practice coding</p>
+<p align="left">I'm Choon Sien from Melbourne<br><br>- 🔭 I’m working as a Customer Care Consultant in a water company<br>- 📚 I'm currently learning data analysis, cyber security and coding<br>- ⚡ In my free time I enjoy having a cup of coffee while working on my self-project and practice coding</p>
 
 ###
 
